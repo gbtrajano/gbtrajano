@@ -159,7 +159,7 @@ Me chamo Gabriel Trajano, tenho 21 anos e sou natural do Rio de Janeiro. Conclu√
 
    <img src="https://github-readme-stats.vercel.app/api?username=gbtrajano&theme=tokyonight&show_icons=true" />  
    
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbtrajano&theme=tokyonight" alt="stats" />
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbtrajano&theme=tokyonight" alt="stats" /> -->
 
 <img 
       align="left" 
