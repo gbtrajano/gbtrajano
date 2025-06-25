@@ -23,7 +23,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Meus Conhecimentos ~</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,ts,react,nextjs,py,bootstrap,git,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,linux,windows)](https://skillicons.dev)
 
 #
 
