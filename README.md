@@ -28,13 +28,18 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* Estatísticas do Github *</h3>
+  <h3 style="font-weight: 800;">* Estatísticas do GITHUB *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gbtrajano&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FE583C&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FE583C&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/gbtrajano/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gbtrajano&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FE583C&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+
+![gbtrajano's Stats](https://github-readme-stats.vercel.app/api?username=gbtrajano&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![gbtrajano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gbtrajano&theme=dark&hide_border=false)
+
+![gbtrajano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbtrajano&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+</div>
 </div>
 
 #
