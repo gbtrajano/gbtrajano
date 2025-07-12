@@ -17,8 +17,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Entre em Contato comigo!</h3>
 
+<div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</div>
 
 <h3 align="left">Meus Conhecimentos ~</h3>
 
