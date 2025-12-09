@@ -26,25 +26,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,linux,windows)](https://skillicons.dev)
 
-#
-
-<div style="text-align: center;" align="center">
-  <h3 style="font-weight: 800;">* Estatísticas do GITHUB *</h3>
-  <br>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-
-![gbtrajano's Stats](https://github-readme-stats.vercel.app/api?username=gbtrajano&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-![gbtrajano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gbtrajano&theme=dark&hide_border=false)
-
-![gbtrajano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbtrajano&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
-</div>
-</div>
-
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbtrajano/gbtrajano/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbtrajano/gbtrajano/output/github-contribution-grid-snake-dark.svg">
